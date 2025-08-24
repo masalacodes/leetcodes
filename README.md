@@ -18,6 +18,7 @@ My Progress in LeetCodes
 | [0013-roman-to-integer](https://github.com/masalacodes/leetcodes/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/masalacodes/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/masalacodes/leetcodes/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/masalacodes/leetcodes/tree/master/0459-repeated-substring-pattern) |
 | [1894-merge-strings-alternately](https://github.com/masalacodes/leetcodes/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -36,4 +37,5 @@ My Progress in LeetCodes
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/masalacodes/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/masalacodes/leetcodes/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
